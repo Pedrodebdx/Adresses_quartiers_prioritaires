@@ -1,0 +1,4 @@
+pip install geopy
+pip install geojson
+pip install Shapely
+pip install pandas
